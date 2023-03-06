@@ -1,0 +1,13 @@
+.container{
+    margin: 19px 1350px 54px 13px;
+    padding: 32px 50px 34px 16px;
+    border-radius: 100px;
+    background-color: #171717;
+
+  }
+
+  h3{
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+  }
